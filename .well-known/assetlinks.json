@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.angel.movify",
+    "sha256_cert_fingerprints":
+    ["16:4E:B2:18:B9:A2:F9:AB:F5:95:60:5A:B5:76:ED:9B:0E:8C:24:29:9D:A7:E9:33:52:BD:9D:58:F9:C9:35:5A"]
+  }
+}]
